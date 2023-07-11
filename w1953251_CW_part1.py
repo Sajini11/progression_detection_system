@@ -1,4 +1,3 @@
-
 progress_num, trailer_num, excluded_num, retriever_num = 0, 0, 0, 0  #create variables
 
 print('_____Welcome to  Progression Measuring System______')
